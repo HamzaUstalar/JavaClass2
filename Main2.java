@@ -25,7 +25,7 @@ public class Main2 {
         musteriNumarasi(musteri2,"Tebrikler");
         musteriNumarasiVeIsmi(musteri2, musteri1,"Deneme");
 
-        Main2Soru deneme = new Main2Soru(); 
+        Main2Soru deneme = new Main2Soru(); // 17. Satırın sorusunun cevabı: Evet extends edildiği zamanda constructor çalışır.
         deneme.constructorDeneme();
         
     }
